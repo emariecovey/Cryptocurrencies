@@ -8,13 +8,13 @@ The purpose of this project was to use unsupervised machine learning to group cr
 4. I then created Visualizations for the project. I used plotly to make a 3D plot of the three PCA dimensions. I also made a dynamic table with hvplot. Lastly, I created a 2D plot of the standardized continous variables from the dataset (total coin supply and total mined coins). 
 
 Elbow curve:
-![elbow curve]()
+![elbow curve](https://github.com/emariecovey/Cryptocurrencies/blob/main/images/elbow_curve.png)
 
 3D plot:
-![3D plot]()
+![3D plot](https://github.com/emariecovey/Cryptocurrencies/blob/main/images/3D_plot.png)
 
 Table:
-![Table]()
+![Table](https://github.com/emariecovey/Cryptocurrencies/blob/main/images/Table.png)
 
 2D_plot:
-![Table]()
+![Table](https://github.com/emariecovey/Cryptocurrencies/blob/main/images/2D_plot.png)
